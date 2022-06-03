@@ -183,19 +183,21 @@ nav ul li a:hover:after{
 }
 
 .about-text h2{
-	color: black;
-	font-size: 60px;
+	color: #331a00;
+	font-size: 110px;
 	text-transform: capitalize;
     margin-top: -20px;
 	margin-bottom: 20px;
-    margin-left: -20px;
+    margin-left: -40%;"
 }
 .about-text h5{
-	color: white;
+	color: #966444;
 	letter-spacing: 2px;
-	font-size: 22px;
-	margin-bottom: 25px;
-	text-transform: capitalize;
+	font-size:40px; 
+	margin: 0; 
+	padding: 0; 
+	margin-left:-50%;
+	margin-top:-35px;
 }
 .about-text p{
 	letter-spacing: 1px;
